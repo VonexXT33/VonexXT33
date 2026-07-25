@@ -1,24 +1,41 @@
-👋 Olá, eu sou José Alves!
+<h1 align="center">Olá, eu sou José Alves 👋</h1>
 
-Sou estudante de Desenvolvimento de Sistemas e utilizo este perfil para documentar minha evolução, compartilhar projetos e aprimorar minhas habilidades, com foco atual em Git e GitHub.
+<p align="center">
+  Estudante de <strong>Desenvolvimento de Sistemas</strong><br>
+  Atualmente focado em <strong>Git</strong> e <strong>GitHub</strong>, construindo uma base sólida em versionamento e colaboração.
+</p>
 
-🚀 Atualmente estudando
-Git
-GitHub
+---
 
-📂 Objetivo
+## 🚀 Atualmente estudando
 
-Desenvolver minhas habilidades em versionamento, colaboração e desenvolvimento de software, compartilhando minha evolução através dos projetos deste perfil.
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</p>
 
-📖 Versículo
+---
 
-"Consagre ao Senhor tudo o que você faz, e os seus planos serão bem-sucedidos."
-Provérbios 16:3
+## 🎯 Objetivo
 
-📫 Contato
+Compartilhar minha evolução como desenvolvedor, criando projetos que reforcem meus conhecimentos e boas práticas de desenvolvimento.
 
-GitHub: VonexXT33
+---
 
-Linkedin: https://www.linkedin.com/in/jos%C3%A9-alves-23362619a/
+## 📖 Versículo
 
-Email: josealv.neto04b@gmail.com
+> **"Consagre ao Senhor tudo o que você faz, e os seus planos serão bem-sucedidos."**  
+> **Provérbios 16:3**
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-alves-23362619a/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josealv.neto04b@gmail.com)
+
+---
+
+<p align="center">
+  <i>🚀 Em constante aprendizado.</i>
+</p>
