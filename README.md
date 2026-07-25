@@ -16,5 +16,7 @@ Provérbios 16:3
 
 📫 Contato
 GitHub: VonexXT33
+
 https://www.linkedin.com/in/jos%C3%A9-alves-23362619a/
+
 josealv.neto04b@gmail.com
