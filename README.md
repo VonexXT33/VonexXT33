@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Olá, eu sou José Alves!
 
-<!--
-**VonexXT33/VonexXT33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Desenvolvimento de Sistemas e utilizo este perfil para documentar minha evolução, compartilhar projetos e aprimorar minhas habilidades, com foco atual em Git e GitHub.
 
-Here are some ideas to get you started:
+🚀 Atualmente estudando
+Git
+GitHub
+📂 Objetivo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolver minhas habilidades em versionamento, colaboração e desenvolvimento de software, compartilhando minha evolução através dos projetos deste perfil.
+
+📖 Versículo
+
+"Consagre ao Senhor tudo o que você faz, e os seus planos serão bem-sucedidos."
+Provérbios 16:3
+
+📫 Contato
+GitHub: VonexXT33
+https://www.linkedin.com/in/jos%C3%A9-alves-23362619a/
+josealv.neto04b@gmail.com
