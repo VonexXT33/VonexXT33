@@ -19,9 +19,9 @@
 
 ## 📚 Atualmente
 
-- ✅ Git (Básico ao Avançado)
+- ✅ Git 
 - ✅ GitHub
-- 📖 Estudando TypeScript
+- 📖 Learning - TypeScript
 
 ---
 
