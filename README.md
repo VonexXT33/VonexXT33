@@ -17,6 +17,9 @@
 <p>
   <img src="https://img.shields.io/badge/TypeScript-Learning-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
+
+---
+
 ## 🎯 Objetivo
 
 Construir uma base sólida em desenvolvimento de software, aplicando boas práticas de versionamento, organização de código e colaboração em projetos, enquanto evoluo continuamente por meio de estudos e projetos práticos.
