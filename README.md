@@ -5,14 +5,14 @@
   Apaixonado por tecnologia e em constante evolução na área de desenvolvimento de software.
 </p>
 
-## 🛠️ Tecnologias
+## 🛠️Técnologias
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-## 📚 Atualmente Aprendendo
+## 📚 Em estudo
 
 <p>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
@@ -47,5 +47,5 @@ Neste perfil você encontrará projetos desenvolvidos para praticar e consolidar
 ---
 
 <p align="center">
-  <i>🚀 Sempre aprendendo, evoluindo e construindo novos projetos.</i>
+  <i> Sempre aprendendo, evoluindo e construindo novos projetos.</i>
 </p>
