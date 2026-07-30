@@ -52,5 +52,5 @@ Neste perfil você encontrará projetos desenvolvidos para praticar e consolidar
 ---
 
 <p align="center">
-  <i>🚀 Sempre aprendendo, evoluindo e construindo novos projetos.</i>
+  <i> Sempre aprendendo, evoluindo e construindo novos projetos.</i>
 </p>
